@@ -1,1 +1,2 @@
-# Covid-19-
+# Covid-19
+Author: Ha Xuan Huy, Tran Xuan Bao, Phan Hoang Dung
